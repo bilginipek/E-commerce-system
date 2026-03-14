@@ -4,6 +4,7 @@
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-★-pink?style=for-the-badge)
 ![Author](https://img.shields.io/badge/Author-Ipek%20Bilgin-pink?style=for-the-badge)
+
 📍 **E-Commerce System** is a **Java console application** simulating a simple e-commerce environment.  
 It demonstrates **object-oriented design, abstraction, inheritance, polymorphism, generics, and collections** in a clean and structured way.
 
